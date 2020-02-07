@@ -6,7 +6,7 @@ Hiwot's First APP
 
 ### App Walk-though
 
-<https://gph.is/g/a99YV76><br>
+<https://media.giphy.com/media/QxLx07s7diQLfveqic/giphy.gif><br>
 
 
 ### Required User Stories
